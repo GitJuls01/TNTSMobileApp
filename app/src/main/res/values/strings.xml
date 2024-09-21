@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TNTSApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">567322222501-kko3phd2as3v6h65fndb0bkf6p62js52.apps.googleusercontent.com</string>
+</resources>
